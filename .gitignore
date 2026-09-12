@@ -1,1 +1,2 @@
-.atl/
+.atl/*
+!.atl/PROGRESS.md
